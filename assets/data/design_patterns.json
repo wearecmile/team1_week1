@@ -1,0 +1,39 @@
+[
+  {
+    "id": "creational",
+    "title": "Creational",
+    "color": "0xFFF3D250",
+    "patterns": [
+      {
+        "id": "abstract-factory",
+        "title": "Abstract Factory",
+        "description": "Provide an interface for creating families of related or dependent objects without specifying their concrete classes.",
+        "articleUrl": "https://kazlauskas.dev/flutter-design-patterns-11-abstract-factory"
+      }
+
+    ]
+  },
+
+  {
+    "id": "behavioral",
+    "title": "Behavioral",
+    "color": "0xFFF78888",
+    "patterns": [
+
+      {
+        "id": "interpreter",
+        "title": "Interpreter",
+        "description": "Given a language, define a representation for its grammar along with an inter­preter that uses the representation to interpret sentences in the language.",
+        "articleUrl": "https://kazlauskas.dev/flutter-design-patterns-8-interpreter"
+      },
+
+      {
+        "id": "state",
+        "title": "State",
+        "description": "Allow an object to alter its behavior when its internal state changes. The object will appear to change its class.",
+        "articleUrl": "https://kazlauskas.dev/flutter-design-patterns-6-state"
+      }
+
+    ]
+  }
+]
